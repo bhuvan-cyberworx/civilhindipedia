@@ -3375,7 +3375,7 @@ a.consultation-btn{
 
 .do-contact-add-wrapper .do-coantact-social {
 
-    margin-top: 35px;
+    margin-top: -20px;
 
     overflow: hidden;
 
@@ -7022,4 +7022,14 @@ div#Completed-session .card.course-card.hoverable {
     font-weight: 600;
     letter-spacing: 0.2px;
     width: 20%;
+}
+
+.do-contact-page-wrapper {
+
+    overflow: hidden;
+    padding: 0px 0 90px;
+    background: url(../IMAGES/contact-us-background.png) !important;
+    background-size: contain !important;
+    background-position: bottom !important;
+    background-repeat: no-repeat !important;
 }
