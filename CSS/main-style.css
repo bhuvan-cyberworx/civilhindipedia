@@ -4031,7 +4031,7 @@ ul.list-unstyled.list-inline.social-links {
 
 .video-list-thumbs > li{
 
-    margin-bottom:12px;
+    margin-bottom:28px;
 
     height: 150px;
 
@@ -7027,7 +7027,7 @@ div#Completed-session .card.course-card.hoverable {
 .do-contact-page-wrapper {
 
     overflow: hidden;
-    padding: 0px 0 90px;
+    padding: 0px 0 140px;
     background: url(../IMAGES/contact-us-background.png) !important;
     background-size: contain !important;
     background-position: bottom !important;

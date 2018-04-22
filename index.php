@@ -271,8 +271,8 @@ include_once('INCLUDES/menu.php');
 
     <div id="test-container" class="test-container-class">
       <div class="container p0">
-        <div class="title-2 text-center">
-         टेस्ट सीरीज़
+        <div class="title-2 text-center"> 
+नवीनतम परीक्षण
         </div>
         <div class="row course-card-slider">
 
