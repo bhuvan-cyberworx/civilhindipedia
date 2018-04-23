@@ -46,11 +46,11 @@ include_once('INCLUDES/menu.php');
     <div class="row p0 ">
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
+              <img src="IMAGES/ICONS/class-6.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
               
           </div>
        </div>
@@ -58,36 +58,11 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 7</h4><h4 class="card-title related-post-title text-center english-title">(Class 7)</h4>
-              
-          </div>
-       </div>
-     </a>
-    </div>
-
-
-    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
-        <div class="card text-center"  style="background: #f5f5f5;">
-          <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-          <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 8</h4><h4 class="card-title related-post-title text-center english-title">(Class 8)</h4>
-              
-          </div>
-       </div>
-     </a>
-    </div>
-
-    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
-        <div class="card text-center"  style="background: #f5f5f5;">
-          <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-          <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 9</h4><h4 class="card-title related-post-title text-center english-title">(Class 9)</h4>
+              <img src="IMAGES/ICONS/class-7.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 7</h4><h4 class="card-title related-post-title text-center english-title">(Class 7)</h4>
               
           </div>
        </div>
@@ -96,11 +71,11 @@ include_once('INCLUDES/menu.php');
 
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 10</h4><h4 class="card-title related-post-title text-center english-title">(Class 10)</h4>
+              <img src="IMAGES/ICONS/class-8.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 8</h4><h4 class="card-title related-post-title text-center english-title">(Class 8)</h4>
               
           </div>
        </div>
@@ -108,11 +83,24 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 11</h4><h4 class="card-title related-post-title text-center english-title">(Class 11)</h4>
+              <img src="IMAGES/ICONS/class-9.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 9</h4><h4 class="card-title related-post-title text-center english-title">(Class 9)</h4>
+              
+          </div>
+       </div>
+     </a>
+    </div>
+
+
+    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
+       <a href="download-list.php" >
+        <div class="card text-center"  style="background: #f5f5f5;">
+          <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+          <div class="card-block p5">
+              <img src="IMAGES/ICONS/class-10.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 10</h4><h4 class="card-title related-post-title text-center english-title">(Class 10)</h4>
               
           </div>
        </div>
@@ -120,11 +108,23 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 12</h4><h4 class="card-title related-post-title text-center english-title">(Class 12)</h4>
+              <img src="IMAGES/ICONS/class-11.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 11</h4><h4 class="card-title related-post-title text-center english-title">(Class 11)</h4>
+              
+          </div>
+       </div>
+     </a>
+    </div>
+
+    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
+       <a href="download-list.php" >
+        <div class="card text-center"  style="background: #f5f5f5;">
+          <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+          <div class="card-block p5">
+              <img src="IMAGES/ICONS/class-12.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 12</h4><h4 class="card-title related-post-title text-center english-title">(Class 12)</h4>
               
           </div>
        </div>
@@ -146,11 +146,11 @@ include_once('INCLUDES/menu.php');
     <div class="row p0 ">
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">अंतरराष्ट्रीय संबंध</h4><h4 class="card-title related-post-title text-center english-title">(international relation)</h4>
+             <img src="IMAGES/ICONS/International-Relation.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">अंतरराष्ट्रीय संबंध</h4><h4 class="card-title related-post-title text-center english-title">(International Relation)</h4>
               
           </div>
        </div>
@@ -158,11 +158,11 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">वातावरण</h4><h4 class="card-title related-post-title text-center english-title">(Environment)</h4>
+              <img src="IMAGES/ICONS/Environment.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">वातावरण</h4><h4 class="card-title related-post-title text-center english-title">(Environment)</h4>
               
           </div>
        </div>
@@ -170,11 +170,11 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">राजनीति विज्ञान</h4><h4 class="card-title related-post-title text-center english-title">(Political Science)</h4>
+              <img src="IMAGES/ICONS/polotical.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">राजनीति विज्ञान</h4><h4 class="card-title related-post-title text-center english-title">(Political Science)</h4>
               
           </div>
        </div>
@@ -182,11 +182,11 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">अर्थशास्त्र</h4><h4 class="card-title related-post-title text-center english-title">(Economics)</h4>
+             <img src="IMAGES/ICONS/Economics.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">अर्थशास्त्र</h4><h4 class="card-title related-post-title text-center english-title">(Economics)</h4>
               
           </div>
        </div>
@@ -194,11 +194,11 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
+              <img src="IMAGES/ICONS/history.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
               
           </div>
        </div>
@@ -206,11 +206,14 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">Geography</h4><h4 class="card-title related-post-title text-center english-title">(भूगोल)</h4>
+              <div class="card-block p5">
+              <img src="IMAGES/ICONS/geography.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">भूगोल</h4><h4 class="card-title related-post-title text-center english-title">(Geography)</h4>
+              
+          </div>
               
           </div>
        </div>
@@ -219,7 +222,7 @@ include_once('INCLUDES/menu.php');
 
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -234,7 +237,7 @@ include_once('INCLUDES/menu.php');
 
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -246,7 +249,7 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -258,7 +261,7 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -284,30 +287,11 @@ include_once('INCLUDES/menu.php');
     <div class="row p0 ">
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
-              
-          </div>
-       </div>
-     </a>
-    </div>
-
-    
-
-
-    
-    
-
-
-    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
-        <div class="card text-center"  style="background: #f5f5f5;">
-          <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-          <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
+              <img src="IMAGES/ICONS/art-and-culture.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कला और संस्कृति</h4><h4 class="card-title related-post-title text-center english-title">(Art and Culture)</h4>
               
           </div>
        </div>
@@ -315,11 +299,11 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
+              <img src="IMAGES/ICONS/history.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
               
           </div>
        </div>
@@ -327,11 +311,23 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
+              <img src="IMAGES/ICONS/Economics.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">अर्थशास्त्र</h4><h4 class="card-title related-post-title text-center english-title">(Economics)</h4>
+              
+          </div>
+       </div>
+     </a>
+    </div>
+
+    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
+       <a href="download-list.php" >
+        <div class="card text-center"  style="background: #f5f5f5;">
+          <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+          <div class="card-block p5">
+              <img src="IMAGES/ICONS/geography.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">भूगोल</h4><h4 class="card-title related-post-title text-center english-title">(Geography)</h4>
               
           </div>
        </div>
@@ -353,11 +349,11 @@ include_once('INCLUDES/menu.php');
     <div class="row p0 ">
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
+              <img src="IMAGES/ICONS/art-and-culture.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कला और संस्कृति</h4><h4 class="card-title related-post-title text-center english-title">(Art and Culture)</h4>
               
           </div>
        </div>
@@ -368,7 +364,7 @@ include_once('INCLUDES/menu.php');
     
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -380,7 +376,7 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -408,11 +404,11 @@ include_once('INCLUDES/menu.php');
     
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
+              <img src="IMAGES/ICONS/year-2016-17.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">वर्ष</h4><h4 class="card-title related-post-title text-center english-title">(2016-17)</h4>
               
           </div>
        </div>
@@ -420,11 +416,11 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
+              <img src="IMAGES/ICONS/year-2017-18.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">वर्ष</h4><h4 class="card-title related-post-title text-center english-title">(2017-18)</h4>
               
           </div>
        </div>
@@ -447,11 +443,11 @@ include_once('INCLUDES/menu.php');
     
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
+              <img src="IMAGES/ICONS/year-2017-18.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">वर्ष</h4><h4 class="card-title related-post-title text-center english-title">(2017-18)</h4>
               
           </div>
        </div>
@@ -459,11 +455,11 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="papers.php" >
+       <a href="download-list.php" >
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">कक्षा 6</h4><h4 class="card-title related-post-title text-center english-title">(Class 6)</h4>
+              <img src="IMAGES/ICONS/year-2018-19.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">वर्ष</h4><h4 class="card-title related-post-title text-center english-title">(2018-19)</h4>
               
           </div>
        </div>

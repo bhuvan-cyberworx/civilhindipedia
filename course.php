@@ -52,7 +52,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">पात्रता</h4><h4 class="card-title related-post-title text-center english-title">(Eligibilty)</h4>
+              <img src="IMAGES/ICONS/Eligibilty.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">पात्रता</h4><h4 class="card-title related-post-title text-center english-title">(Eligibilty)</h4>
               
           </div>
        </div>
@@ -64,7 +64,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">परीक्षा का पैटर्न</h4><h4 class="card-title related-post-title text-center english-title">(Pattern of Exams)</h4>
+              <img src="IMAGES/ICONS/Pattern-of-Exams.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">परीक्षा का पैटर्न</h4><h4 class="card-title related-post-title text-center english-title">(Pattern of Exams)</h4>
               
           </div>
        </div>
@@ -76,7 +76,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">परीक्षा पाठ्यक्रम</h4><h4 class="card-title related-post-title text-center english-title">(Exam Syllabus)</h4>
+              <img src="IMAGES/ICONS/Exam-Syllabus.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">परीक्षा पाठ्यक्रम</h4><h4 class="card-title related-post-title text-center english-title">(Exam Syllabus)</h4>
               
           </div>
        </div>
@@ -89,7 +89,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">प्रारंभिक टेस्ट श्रृंखला</h4><h4 class="card-title related-post-title text-center english-title">(Preliminary Test Series)</h4>
+              <img src="IMAGES/ICONS/Preliminary-Test-Series.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">प्रारंभिक टेस्ट श्रृंखला</h4><h4 class="card-title related-post-title text-center english-title">(Preliminary Test Series)</h4>
               
           </div>
        </div>
@@ -102,7 +102,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">मुख्य टेस्ट श्रृंखला</h4><h4 class="card-title related-post-title text-center english-title">(Mains Test Series)</h4>
+              <img src="IMAGES/ICONS/Main-Test-Series.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">मुख्य टेस्ट श्रृंखला</h4><h4 class="card-title related-post-title text-center english-title">(Mains Test Series)</h4>
               
           </div>
        </div>
@@ -114,7 +114,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0"></h4>परामर्श सेवाएं<h4 class="card-title related-post-title text-center english-title">(Counselling Services)</h4>
+              <img src="IMAGES/ICONS/Pattern-of-Exams.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0"></h4>परामर्श सेवाएं<h4 class="card-title related-post-title text-center english-title">(Counselling Services)</h4>
               
           </div>
        </div>

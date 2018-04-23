@@ -236,7 +236,7 @@ include_once('INCLUDES/menu.php');
               <a href="book-category.php">
               <div class="program-tile-overlay w100 h100"></div>
               <div class="program-title-content ">
-                <img src="IMAGES/ICONS/discussion.png " alt="Test" class="responsive-img pt20 ">
+                <img src="IMAGES/ICONS/Library.png" alt="Test" class="responsive-img pt20 ">
                 <!-- <div class="pb20"><a href="#" class="flow-text">विचार विमर्श केन्द्र​ </a></div> -->
               </div>
               <div class="program-title text-center" style="padding:0px 0; ">

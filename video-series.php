@@ -39,7 +39,7 @@ include_once('INCLUDES/menu.php');
 </div>
 </section>
 
-<section id="tutorial-nav-id" class="pb-50">
+<!-- <section id="tutorial-nav-id" class="pb-50">
   <div class="sticky-top course-nav " style="">
   <ul class="nav nav-tabs justify-content-center" role="tablist">
     <li role="presentation" ><a href="#objective" aria-controls="objective" role="tab" data-toggle="tab" class="tab active-tab">उद्देश्य परीक्षाएं (Objective Exams)</a></li>
@@ -48,12 +48,12 @@ include_once('INCLUDES/menu.php');
    
   </ul>
   </div>
-</section>
+</section> -->
 
 <div class="tab-content ">
 <div role="tabpanel" class="tab-pane active row" id="objective">
 
-<div class="container pb-50" id="exam-filter">
+<div class="container pb-50 pt-50" id="exam-filter">
   <h2 class="text-center mb-4" style="color: #292f33;font-size: 26px;">भारत में प्रतियोगी परीक्षाओं के लिए ऑनलाइन टेस्ट सीरीज़ और फ्री मॉक टेस्ट</h2>
   <p class="text-center pb20" style="font-size: 16px; color: #5A6779;  font-weight: 400;">भारत में सबसे लोकप्रिय प्रतियोगी परीक्षाओं को दरकिनार करने के लिए टेस्टबुक के साथ अपनी परीक्षा की <br>तैयारी बढ़ाएं अपना कोर्स चुनें और आरंभ करें।</p>
     <div>
@@ -83,7 +83,7 @@ include_once('INCLUDES/menu.php');
     <div class="row">
         
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -95,7 +95,7 @@ include_once('INCLUDES/menu.php');
        </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -109,7 +109,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -122,7 +122,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -136,7 +136,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -150,7 +150,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -163,7 +163,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter examone" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -176,7 +176,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -188,7 +188,7 @@ include_once('INCLUDES/menu.php');
        </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -202,7 +202,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -215,7 +215,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -229,7 +229,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -243,7 +243,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -256,7 +256,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter examone" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -306,7 +306,7 @@ include_once('INCLUDES/menu.php');
     <div class="row">
         
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -318,7 +318,7 @@ include_once('INCLUDES/menu.php');
        </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -332,7 +332,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -345,7 +345,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -359,7 +359,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -373,7 +373,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -386,7 +386,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter examone" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -399,7 +399,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -411,7 +411,7 @@ include_once('INCLUDES/menu.php');
        </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -425,7 +425,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -438,7 +438,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -452,7 +452,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -466,7 +466,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -479,7 +479,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter examone" data-aos="fade-right">
-         <a href="video-series-inner.php">
+         <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -498,7 +498,7 @@ include_once('INCLUDES/menu.php');
 </div>
 
 <!-- End Tab Pane -->
-<section class="civilhindipedia-features">
+<!-- <section class="civilhindipedia-features">
 <div id="features-civil" class="row vertical-slider">
     <div class="col-md-12 vsi">
         <div class="col-md-6 col-sm-12 vertical-slide-content">
@@ -534,7 +534,7 @@ include_once('INCLUDES/menu.php');
         </div>
     </div>  
   </div>
-</section>
+</section> -->
 
 </div>
 

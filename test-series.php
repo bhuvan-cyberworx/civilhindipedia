@@ -41,7 +41,7 @@ include_once('INCLUDES/menu.php');
 
 
 
-<section id="tutorial-nav-id" class="pb-50">
+<!-- <section id="tutorial-nav-id" class="pb-50">
   <div class="sticky-top course-nav " style="">
   <ul class="nav nav-tabs justify-content-center" role="tablist">
     <li role="presentation" ><a href="#objective" aria-controls="objective" role="tab" data-toggle="tab" class="tab active-tab">उद्देश्य परीक्षाएं (Objective Exams)</a></li>
@@ -50,7 +50,7 @@ include_once('INCLUDES/menu.php');
    
   </ul>
   </div>
-</section>
+</section> -->
 
 <!-- section id="tutorial-nav-id" class="pb-50">
   <div class="sticky-top course-nav " >
@@ -70,7 +70,7 @@ include_once('INCLUDES/menu.php');
 <div class="tab-content ">
 <div role="tabpanel" class="tab-pane active row" id="objective">
 
-<div class="container pb-50" id="exam-filter">
+<div class="container pb-50 pt-50" id="exam-filter">
   <h2 class="text-center mb-4" style="color: #292f33;font-size: 26px;">भारत में प्रतियोगी परीक्षाओं के लिए ऑनलाइन टेस्ट सीरीज़ और फ्री मॉक टेस्ट</h2>
   <p class="text-center pb20" style="font-size: 16px; color: #5A6779;  font-weight: 400;">भारत में सबसे लोकप्रिय प्रतियोगी परीक्षाओं को दरकिनार करने के लिए टेस्टबुक के साथ अपनी परीक्षा की <br>तैयारी बढ़ाएं अपना कोर्स चुनें और आरंभ करें।</p>
     <div>

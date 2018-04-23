@@ -71,7 +71,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
+              <img src="IMAGES/ICONS/history.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
               
           </div>
        </div>
@@ -83,7 +83,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">भूगोल</h4><h4 class="card-title related-post-title text-center english-title">(Geography)</h4>
+              <img src="IMAGES/ICONS/geography.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">भूगोल</h4><h4 class="card-title related-post-title text-center english-title">(Geography)</h4>
               
           </div>
        </div>
@@ -95,7 +95,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">राज्यतन्त्र</h4><h4 class="card-title related-post-title text-center english-title">(polity)</h4>
+              <img src="IMAGES/ICONS/polotical.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">राज्यतन्त्र</h4><h4 class="card-title related-post-title text-center english-title">(polity)</h4>
               
           </div>
        </div>
@@ -108,7 +108,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">अर्थशास्त्र</h4><h4 class="card-title related-post-title text-center english-title">(Economics)</h4>
+              <img src="IMAGES/ICONS/Economics.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">अर्थशास्त्र</h4><h4 class="card-title related-post-title text-center english-title">(Economics)</h4>
               
           </div>
        </div>
@@ -121,7 +121,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center" >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">विज्ञान और तकनीक</h4><h4 class="card-title related-post-title text-center english-title">(Science and Technology)</h4>
+              <img src="IMAGES/ICONS/Science-and-Technology.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">विज्ञान और तकनीक</h4><h4 class="card-title related-post-title text-center english-title">(Science and Technology)</h4>
               
           </div>
        </div>
@@ -133,20 +133,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सामाजिक मुद्दे</h4><h4 class="card-title related-post-title text-center english-title">(Social Issues)</h4>
-              
-          </div>
-       </div>
-     </a>
-    </div>
-
-
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
-        <div class="card text-center"  >
-          <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-          <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सामयिकी</h4><h4 class="card-title related-post-title text-center english-title">(Current Affairs)</h4>
+              <img src="IMAGES/ICONS/Social-Issues.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सामाजिक मुद्दे</h4><h4 class="card-title related-post-title text-center english-title">(Social Issues)</h4>
               
           </div>
        </div>
@@ -159,7 +146,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">खेल</h4><h4 class="card-title related-post-title text-center english-title">(Sports)</h4>
+              <img src="IMAGES/ICONS/Current-Affairs.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सामयिकी</h4><h4 class="card-title related-post-title text-center english-title">(Current Affairs)</h4>
               
           </div>
        </div>
@@ -172,7 +159,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सामान्य</h4><h4 class="card-title related-post-title text-center english-title">(General)</h4>
+              <img src="IMAGES/ICONS/sports.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">खेल</h4><h4 class="card-title related-post-title text-center english-title">(Sports)</h4>
               
           </div>
        </div>
@@ -185,7 +172,20 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">अंतरराष्ट्रीय संबंध</h4><h4 class="card-title related-post-title text-center english-title">(International Relation)</h4>
+              <img src="IMAGES/ICONS/general.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सामान्य</h4><h4 class="card-title related-post-title text-center english-title">(General)</h4>
+              
+          </div>
+       </div>
+     </a>
+    </div>
+
+
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
+       <a href="notifications.php" >
+        <div class="card text-center"  >
+          <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+          <div class="card-block p5">
+              <img src="IMAGES/ICONS/International-Relation.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">अंतरराष्ट्रीय संबंध</h4><h4 class="card-title related-post-title text-center english-title">(International Relation)</h4>
               
           </div>
        </div>
@@ -197,7 +197,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">वातावरण</h4><h4 class="card-title related-post-title text-center english-title">(Environment)</h4>
+              <img src="IMAGES/ICONS/Environment.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">वातावरण</h4><h4 class="card-title related-post-title text-center english-title">(Environment)</h4>
               
           </div>
        </div>
