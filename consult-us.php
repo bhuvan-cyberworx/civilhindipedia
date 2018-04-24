@@ -40,8 +40,7 @@ get the support you need, right here, right now.
 
 	<div class="help-container">
 	<div class="img-container">
-	<img src="https://d2a61ob4m0n1zq.cloudfront.net/newHome/1.svg">
-	</div>
+	<img src="IMAGES/consultation/1-appointment.jpg"></div>
 	<div class="content-container">
 	<div class="details-container">
 	<span>1</span>
@@ -58,7 +57,7 @@ get the support you need, right here, right now.
 <div class="col-lg-3 col-sm-12 text-center">
 <div class="help-container">
 <div class="img-container">
-<img src="https://d2a61ob4m0n1zq.cloudfront.net/newHome/2.svg">
+<img src="IMAGES/consultation/2-will-reach.jpg">
 </div>
 <div class="content-container">
 <div class="details-container">
@@ -75,7 +74,7 @@ Open up to your Expert in a space where you get the guidance you need, and your 
 <div class="col-lg-3 col-sm-12 text-center">
 <div class="help-container">
 <div class="img-container">
-<img src="https://d2a61ob4m0n1zq.cloudfront.net/newHome/2.svg">
+<img src="IMAGES/consultation/3-discuss.jpg">
 </div>
 <div class="content-container">
 <div class="details-container">
@@ -93,7 +92,7 @@ Open up to your Expert in a space where you get the guidance you need, and your 
 <div class="col-lg-3 col-sm-12 text-center">
 <div class="help-container">
 <div class="img-container">
-<img src="https://d2a61ob4m0n1zq.cloudfront.net/newHome/3.svg">
+<img src="IMAGES/consultation/4-solution.jpg">
 </div>
 <div class="content-container">
 <div class="details-container">

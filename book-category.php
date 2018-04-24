@@ -58,7 +58,7 @@ include_once('INCLUDES/menu.php');
               <a href="#"><h4 class="card-title book-title ">A Brief History of Time: From Big Bang to Black Holes</h4></a>
               <div class="  book-info">
                 <p class="card-text text-muted" style="font-size: 12px;"> <strong>By : </strong><small class="text-muted" style="font-size: 12px;">David McCullough</small></p>
-                <p class="book-price"><span>Best Price : </span><a href="" class="book-buy-link  float-right" style="" >Rs. 560</a></p>
+                <p class="book-price"><span>Best Buy : </span><img class="float-right" src="IMAGES/affiliates/infibeam.png" alt="" style="" height="30px; object-fit:contain; object-position:center;"></p>
                 <p class="more-options" style="border-top: 1px solid #eee"><a href="book.php" class="book-buy-link  float-left" style="" >More  Options</a></p>
                   
                 
@@ -78,7 +78,7 @@ include_once('INCLUDES/menu.php');
               <a href="#"><h4 class="card-title book-title ">Word Power Made Easy</h4></a>
               <div class="  book-info">
                 <p class="card-text text-muted" style="font-size: 12px;"> <strong>By : </strong><small class="text-muted" style="font-size: 12px;">David McCullough</small></p>
-                <p class="book-price"><span>Best Price : </span><a href="" class="book-buy-link  float-right" style="" >Rs. 260</a></p>
+                <p class="book-price"><span>Best Buy : </span><img class="float-right" src="IMAGES/affiliates/infibeam.png" alt="" style="" height="30px; object-fit:contain; object-position:center;"></p>
                 <p class="more-options" style="border-top: 1px solid #eee"><a href="book.php" class="book-buy-link  float-left" style="" >More  Options</a></p>
                   
                 
@@ -98,7 +98,7 @@ include_once('INCLUDES/menu.php');
               <a href="#"><h4 class="card-title book-title ">The Intelligent Investor (English) Paperback – 2013</h4></a>
               <div class="  book-info">
                 <p class="card-text text-muted" style="font-size: 12px;"> <strong>By : </strong><small class="text-muted" style="font-size: 12px;">David McCullough</small></p>
-                <p class="book-price"><span>Best Price : </span><a href="" class="book-buy-link  float-right" style="" >Rs. 357</a></p>
+                <p class="book-price"><span>Best Buy : </span> <img class="float-right" src="IMAGES/affiliates/amazon.png" alt="" style="" height="30px; object-fit:contain; object-position:center;"></p>
                 <p class="more-options" style="border-top: 1px solid #eee"><a href="book.php" class="book-buy-link  float-left" style="" >More  Options</a></p>
                   
                 
@@ -118,7 +118,7 @@ include_once('INCLUDES/menu.php');
               <a href="#"><h4 class="card-title book-title ">Wings of Fire: An Autobiography of Abdul Kalam</h4></a>
               <div class="  book-info">
                 <p class="card-text text-muted" style="font-size: 12px;"> <strong>By : </strong><small class="text-muted" style="font-size: 12px;">David McCullough</small></p>
-                <p class="book-price"><span>Best Price : </span><a href="" class="book-buy-link  float-right" style="" >Rs. 157</a></p>
+                <p class="book-price"><span>Best Buy : </span><img class="float-right" src="IMAGES/affiliates/flipkart.png" alt="" style="" height="30px; object-fit:contain; object-position:center;"></p>
                 <p class="more-options" style="border-top: 1px solid #eee"><a href="book.php" class="book-buy-link  float-left" style="" >More  Options</a></p>
                   
                 

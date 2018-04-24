@@ -64,7 +64,7 @@ include_once('INCLUDES/menu.php');
               <p class="book-price" style=""><span>Category : <small style="font-size: 12px;">History</small></span>
               <span style="margin-left: 15px;">Language : <small style="font-size: 12px;">English</small></span>  </p>
 
-              <p class="book-price" style="border-top: 1px solid #eee; padding-top: 18px;"><span>Best Price on <span>Flipkart</span>: </span><a href="" class="book-buy-link  float-right best-price" style="" > Rs. 320</a></p>
+              <!-- <p class="book-price" style="border-top: 1px solid #eee; padding-top: 18px;"><span>Best Price on <span>Flipkart</span>: </span><a href="" class="book-buy-link  float-right best-price" style="" > Rs. 320</a></p> -->
               
             </div>
         </div>
@@ -76,12 +76,12 @@ include_once('INCLUDES/menu.php');
       
       <div class="row">
         <div class="title-2 text-left p0 col-sm-12">
-        खरीदने के लिए और विकल्प
+        खरीदने के विकल्प
       </div>
         <div class="col-md-4 more-option-item ">
           <div class="content hoverable">
             <img src="IMAGES/affiliates/amazon.png" alt="" style="" height="30px; object-fit:contain; object-position:center;">
-            <a href="" class="float-right book-price amazon">Rs. 330</a>
+            <a href="" class="float-right book-price amazon">Buy Now</a>
           </div>
           
         </div>
@@ -89,7 +89,7 @@ include_once('INCLUDES/menu.php');
         <div class="col-md-4 more-option-item ">
           <div class="content hoverable">
             <img src="IMAGES/affiliates/flipkart.png" alt="" style="" height="30px; object-fit:contain; object-position:center;">
-            <a href="" class="float-right book-price flipkart">Rs. 383</a>
+            <a href="" class="float-right book-price flipkart">Buy Now</a>
           </div>
           
         </div>
@@ -97,7 +97,7 @@ include_once('INCLUDES/menu.php');
        <div class="col-md-4 more-option-item ">
           <div class="content hoverable">
             <img src="IMAGES/affiliates/infibeam.png" alt="" style="" height="30px; object-fit:contain; object-position:center;">
-            <a href="" class="float-right book-price infibeam">Rs. 360</a>
+            <a href="" class="float-right book-price infibeam">Buy Now</a>
           </div>
           
         </div>
@@ -105,7 +105,7 @@ include_once('INCLUDES/menu.php');
         <div class="col-md-4 more-option-item ">
           <div class="content hoverable">
             <img src="IMAGES/affiliates/flipkart.png" alt="" style="" height="30px; object-fit:contain; object-position:center;">
-            <a href="" class="float-right book-price flipkart">Rs. 383</a>
+            <a href="" class="float-right book-price flipkart">Buy Now</a>
           </div>
           
         </div>
