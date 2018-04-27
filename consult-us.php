@@ -34,7 +34,7 @@ get the support you need, right here, right now.
 <div class="title">
 सहायता के चार चरण
 </div>
-<div class="row m0">
+<div class="row m0 pb-50">
 
 <div class="col-lg-3 col-sm-12 text-center">
 
@@ -119,10 +119,10 @@ With 24X7 support from our experts, bid goodbye to your old self and be on your 
 <div class="package-container container">
 <div class="row no-margin">
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 	<a href="consult-category.php">
 	<div class="content" data-url="career-advice">
-	<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/9.png">
+	<img src="IMAGES/consultation/1.jpg">
 	<div class="package-details">
 	<div class="title">हम आपके लिए सर्वश्रेष्ठ कैरियर का निर्णय लेने में आपकी सहायता करते हैं</div>
 	<div class="duration">
@@ -140,10 +140,10 @@ With 24X7 support from our experts, bid goodbye to your old self and be on your 
 </a>
 </div>
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="building-self-confidence">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/confident1.png">
+<img src="IMAGES/consultation/2.jpg">
 <div class="package-details">
 <div class="title">Become a more confident you</div>
 <div class="duration">
@@ -162,10 +162,10 @@ Duration : 4 weeks
 </div>
 
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="pre-marital-counseling">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/8.png">
+<img src="IMAGES/consultation/3.jpg">
 <div class="package-details">
 <div class="title">Overcome pre-wedding jitters</div>
 <div class="duration">
@@ -185,7 +185,7 @@ Duration : 4 weeks
 </div>
 
 <div class="row no-margin">
-<div class="col-sm-4 p0">
+<div class="col-sm-4  col-lg-4 consultation-tile p0">
 <a href="consult-category.php">
 <div class="content" data-url="post-marriage-counseling">
 <img src="https://d1hny4jmju3rds.cloudfront.net/newHome/10.png">
@@ -203,7 +203,7 @@ Duration : 4 weeks
 
 
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="career-advice">
 <img src="https://d1hny4jmju3rds.cloudfront.net/newHome/9.png">
@@ -225,7 +225,7 @@ Duration : 2 weeks
 </div>
 
 
-<div class="col-sm-4 p0">
+<div class="col-sm-4  col-lg-4 consultation-tile p0">
 <a href="consult-category.php">
 <div class="content" data-url="cope-with-lose-of-someone">
 <img src="https://d1hny4jmju3rds.cloudfront.net/newHome/growing.png">
@@ -243,7 +243,7 @@ Duration : 2 weeks
 
 
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="career-advice">
 <img src="https://d1hny4jmju3rds.cloudfront.net/newHome/9.png">
@@ -264,7 +264,7 @@ Duration : 2 weeks
 </a>
 </div>
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="building-self-confidence">
 <img src="https://d1hny4jmju3rds.cloudfront.net/newHome/confident1.png">
@@ -286,7 +286,7 @@ Duration : 4 weeks
 </div>
 
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="pre-marital-counseling">
 <img src="https://d1hny4jmju3rds.cloudfront.net/newHome/8.png">
@@ -309,7 +309,7 @@ Duration : 4 weeks
 
 
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="career-advice">
 <img src="https://d1hny4jmju3rds.cloudfront.net/newHome/9.png">
@@ -330,7 +330,7 @@ Duration : 2 weeks
 </a>
 </div>
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="building-self-confidence">
 <img src="https://d1hny4jmju3rds.cloudfront.net/newHome/confident1.png">
@@ -351,7 +351,7 @@ Duration : 4 weeks
 </a>
 </div>
 
-<div class="col-lg-4 col-sm-12 p0">
+<div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="pre-marital-counseling">
 <img src="https://d1hny4jmju3rds.cloudfront.net/newHome/8.png">

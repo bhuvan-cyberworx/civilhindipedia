@@ -40,6 +40,7 @@
 </script>
 <script >
 console.log("Slick Working");
+
 $(document).ready(function(){
   $('.course-card-slider').slick({
     infinite: true,

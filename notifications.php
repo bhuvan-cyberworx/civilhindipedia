@@ -47,120 +47,85 @@ include_once('INCLUDES/menu.php');
       <!-- VERTICAL BLOG title -->
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
-            <a href="post.php">
+            <a href="notification.php">
               <h2 class="notification-title">
-                Maha Metro Railway Recruitment 2018 for Multiple Posts – Direct Link to Apply!
+                Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
         </div>
-        <div class="row col-md-12 ">
-          <div class="col-lg-6 p0 categories ">
-            <i class="fas fa-tags"></i>
-            <a href="#" class="card-text ">Exams</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC CPO</a>
-          </div>
-        </div>
+        
       </div>
 
       <!-- VERTICAL BLOG title -->
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
-            <a href="post.php">
+            <a href="notification.php">
               <h2 class="notification-title">
-                Maha Metro Railway Recruitment 2018 for Multiple Posts – Direct Link to Apply!
+                Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
         </div>
-        <div class="row col-md-12 ">
-          <div class="col-lg-6 p0 categories ">
-            <i class="fas fa-tags"></i>
-            <a href="#" class="card-text ">Exams</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC CPO</a>
-          </div>
-        </div>
+        
       </div>
 
       <!-- VERTICAL BLOG title -->
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
-            <a href="post.php">
+            <a href="notification.php">
               <h2 class="notification-title">
-                Maha Metro Railway Recruitment 2018 for Multiple Posts – Direct Link to Apply!
+                Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
         </div>
-        <div class="row col-md-12 ">
-          <div class="col-lg-6 p0 categories ">
-            <i class="fas fa-tags"></i>
-            <a href="#" class="card-text ">Exams</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC CPO</a>
-          </div>
-        </div>
+        
       </div>
 
       <!-- VERTICAL BLOG title -->
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
-            <a href="post.php">
+            <a href="notification.php">
               <h2 class="notification-title">
-                Maha Metro Railway Recruitment 2018 for Multiple Posts – Direct Link to Apply!
+                Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
         </div>
-        <div class="row col-md-12 ">
-          <div class="col-lg-6 p0 categories ">
-            <i class="fas fa-tags"></i>
-            <a href="#" class="card-text ">Exams</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC CPO</a>
-          </div>
-        </div>
+        
       </div>
 
       <!-- VERTICAL BLOG title -->
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
-            <a href="post.php">
+            <a href="notification.php">
               <h2 class="notification-title">
-                Maha Metro Railway Recruitment 2018 for Multiple Posts – Direct Link to Apply!
+                Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
         </div>
-        <div class="row col-md-12 ">
-          <div class="col-lg-6 p0 categories ">
-            <i class="fas fa-tags"></i>
-            <a href="#" class="card-text ">Exams</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC CPO</a>
-          </div>
-        </div>
+        
       </div>
 
       <!-- VERTICAL BLOG title -->
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
-            <a href="post.php">
+            <a href="notification.php">
               <h2 class="notification-title">
-                Maha Metro Railway Recruitment 2018 for Multiple Posts – Direct Link to Apply!
+                Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
         </div>
-        <div class="row col-md-12 ">
-          <div class="col-lg-6 p0 categories ">
-            <i class="fas fa-tags"></i>
-            <a href="#" class="card-text ">Exams</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC CPO</a>
-          </div>
-        </div>
+        
       </div>
 
       <!-- VERTICAL BLOG title -->
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
-            <a href="post.php">
+            <a href="notification.php">
               <h2 class="notification-title">
-                Maha Metro Railway Recruitment 2018 for Multiple Posts – Direct Link to Apply!
+                Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
         </div>
-        <div class="row col-md-12 ">
-          <div class="col-lg-6 p0 categories ">
-            <i class="fas fa-tags"></i>
-            <a href="#" class="card-text ">Exams</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC</a> <i class="fa fa-circle dot_icon align-middle card-text"></i> <a href="#" class="card-text ">SSC CPO</a>
-          </div>
-        </div>
+        
       </div>
 
 

@@ -27,17 +27,16 @@ include_once('INCLUDES/menu.php');
 </div>
 </section>
 
-<section class="">
-  <div class="page-section heading-bg-text header-gradient " >
-  <div class="container">
-    <div class="row">
-      <div class="cs-page-title ban-text">
-        <h1>
-          UPSC Prelimineary Series        </h1>
-      </div>
+<section style="width: 100%; overflow-x: hidden;">
+  <div class="course-banner text-center"   style="background-image: url('IMAGES/video-series.jpg');">
+  <div class="courser-banner-overlay-fill"></div>
+  <div class="courser-banner-content">
+    <div class="banner-content-container">
+      <h1 class="heading-small  white ">UPSC Video Tutorials</h1>
+      </div><!-- end ngIf: !tbExam.isLoggedIn -->
     </div>
   </div>
-</div>
+
 </section>
 
 <!-- VIDEO TUTORIAL SECTION -->

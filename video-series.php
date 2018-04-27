@@ -26,17 +26,16 @@ include_once('INCLUDES/menu.php');
 </div>
 </section>
 
-<section>
-  <div class="page-section heading-bg-text header-gradient" >
-  <div class="container">
-    <div class="row">
-      <div class="cs-page-title ban-text">
-        <h1>
-           Video Series        </h1>
-      </div>
+<section style="width: 100%; overflow-x: hidden;">
+  <div class="course-banner text-center"   style="background-image: url('IMAGES/video-series.jpg');">
+  <div class="courser-banner-overlay-fill"></div>
+  <div class="courser-banner-content">
+    <div class="banner-content-container">
+      <h1 class="heading-small  white ">Video Tutorials</h1>
+      </div><!-- end ngIf: !tbExam.isLoggedIn -->
     </div>
   </div>
-</div>
+
 </section>
 
 <!-- <section id="tutorial-nav-id" class="pb-50">
@@ -61,19 +60,16 @@ include_once('INCLUDES/menu.php');
         <li class="list-inline-item"><a class="btn btn-primary filter-button filter-active" data-filter="all">All</a></li>
         
         <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="upsc">UPSC</a></li>
-        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">STATE PCS</a></li>
-
-        <li class="list-inline-item">
-          <div class="dropdown" id="more-exams" >
-            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">More
-            <span class="caret"></span></button>
-            <ul class="dropdown-menu">
-              <li><a class="btn btn-default filter-button" data-filter="examone">Exam One</a></li>
-              <li><a class="btn btn-default filter-button" data-filter="state-pcs">Exam Two</a></li>
-              <li><a class="btn btn-default filter-button" data-filter="state-pcs">ETC</a></li>
-            </ul>
-          </div>
-        </li>
+        
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">UPPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="examone">UKPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">MPPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">BPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">RPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">CGPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">HPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">JPSC</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">HPPCS</a></li>
         
       </ul>
         

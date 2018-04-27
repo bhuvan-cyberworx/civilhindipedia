@@ -10,7 +10,7 @@
     </div>
       <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       </ul>
-      <a class="discuss" href="consult-us.php"><img src="IMAGES/ICONS/Computer-Consulting-Icon-Small.png" alt="" height="30px;" style="margin-top: -10px; margin-right: 5px;"> परामर्श सेवायें</a>
+      <a class="discuss" href="consult-us.php"><img src="IMAGES/ICONS/discuss.png" alt="" height="40px;" style="margin-top: -5px; margin-right: 5px;"> परामर्श सेवायें</a>
       <div><a href="login.php" class=" border-0 white login-button">LOGIN</a>
       <a href="register.php" class=" border-0 white register-button">REGISTER</a></div>
       

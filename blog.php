@@ -29,7 +29,7 @@ include_once('INCLUDES/menu.php');
     <div class="row">
       <div class="cs-page-title ban-text">
         <h1>
-          Latest UPSC Notifications        </h1>
+          Latest History Posts</h1>
       </div>
     </div>
   </div>

@@ -26,17 +26,16 @@ include_once('INCLUDES/menu.php');
 </div>
 </section>
 
-<section>
-  <div class="page-section heading-bg-text header-gradient" >
-  <div class="container">
-    <div class="row">
-      <div class="cs-page-title ban-text">
-        <h1>
-           Test Series        </h1>
-      </div>
+<section style="width: 100%; overflow-x: hidden;">
+  <div class="course-banner text-center"   style="background-image: url('IMAGES/test-1.jpg');">
+  <div class="courser-banner-overlay-fill"></div>
+  <div class="courser-banner-content">
+    <div class="banner-content-container">
+      <h1 class="heading-small  white ">TEST SERIES</h1>
+      </div><!-- end ngIf: !tbExam.isLoggedIn -->
     </div>
   </div>
-</div>
+
 </section>
 
 
@@ -79,8 +78,17 @@ include_once('INCLUDES/menu.php');
         
         <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="upsc">UPSC</a></li>
         <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">UPPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="examone">UKPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">MPPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">BPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">RPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">CGPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">HPCS</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">JPSC</a></li>
+        <li class="list-inline-item"><a class="btn btn-default filter-button" data-filter="state-pcs">HPPCS</a></li>
 
-        <li class="list-inline-item">
+
+       <!--  <li class="list-inline-item">
           <div class="dropdown" id="more-exams" >
             <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">More
             <span class="caret"></span></button>
@@ -96,7 +104,7 @@ include_once('INCLUDES/menu.php');
 
             </ul>
           </div>
-        </li>
+        </li> -->
 
         
       </ul>
@@ -107,7 +115,7 @@ include_once('INCLUDES/menu.php');
     <div class="row">
         
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -119,7 +127,7 @@ include_once('INCLUDES/menu.php');
        </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -133,7 +141,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -146,7 +154,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -160,7 +168,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -174,7 +182,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -187,7 +195,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter examone" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -200,7 +208,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -212,7 +220,7 @@ include_once('INCLUDES/menu.php');
        </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -226,7 +234,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -239,7 +247,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -253,7 +261,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -267,7 +275,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -280,7 +288,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter examone" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -330,7 +338,7 @@ include_once('INCLUDES/menu.php');
     <div class="row">
         
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -342,7 +350,7 @@ include_once('INCLUDES/menu.php');
        </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -356,7 +364,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -369,7 +377,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -383,7 +391,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -397,7 +405,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -410,7 +418,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter examone" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -423,7 +431,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -435,7 +443,7 @@ include_once('INCLUDES/menu.php');
        </a>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -449,7 +457,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -462,7 +470,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -476,7 +484,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -490,7 +498,7 @@ include_once('INCLUDES/menu.php');
 
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -503,7 +511,7 @@ include_once('INCLUDES/menu.php');
       </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter examone" data-aos="fade-right">
-         <a href="test-series-inner.php">
+         <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
@@ -560,6 +568,46 @@ include_once('INCLUDES/menu.php');
   </div>
 </section>
 
+<section class="civilhindipedia-features">
+<div id="features-civil" class="row vertical-slider">
+    <div class="col-md-12 vsi">
+      <div class="col-md-6 col-sm-12">
+            <img class="img-responsive js-lazy-load-img loaded" data-src="//civilpedia.com/assets/img/landing/civilpedia-test-page-2.jpg" alt="Test User Interface" src="//testbook.com/assets/img/landing/testbook-test-page-2.jpg" data-was-processed="true">
+        </div>
+        <div class="col-md-6 col-sm-12 vertical-slide-content">
+            <h2>हिंदी माध्यम को पूर्णत: <br>समर्पित इस मंच का निर्माण!</h2>
+            <p class="text"> यह मंच हिंदी माध्यम के छात्रों को परीक्षा के बदलते स्वरूप के अनुरूप स्वयं में परिवर्तन के लिए मार्गदर्शन प्रदान करेगा तथा वर्तमान वास्तविकता व आवश्यकता के अनुरूप उनकी तैयारी के स्वरूप को गत्यात्मक बनाकर उनके चयन के लिए सर्वोत्कृष्ट प्रयास करेगा।  </p>
+
+            <a href="" data-redirect-url="/tests" class="btn  btn-success ">Get started</a>
+        </div>
+        
+    </div>
+    <div class="col-md-12 vsi">
+       <div class="col-md-6 col-sm-12">
+            <img class="img-responsive js-lazy-load-img loaded" data-src="//civilpedia.com/assets/img/landing/civilpedia-test-page-2.jpg" alt="Test User Interface" src="//testbook.com/assets/img/landing/testbook-test-page-2.jpg" data-was-processed="true">
+        </div>
+        <div class="col-md-6 col-sm-12 vertical-slide-content">
+            <h2>हिंदी माध्यम को पूर्णत: <br>समर्पित इस मंच का निर्माण!</h2>
+            <p class="text"> यह मंच हिंदी माध्यम के छात्रों को परीक्षा के बदलते स्वरूप के अनुरूप स्वयं में परिवर्तन के लिए मार्गदर्शन प्रदान करेगा तथा वर्तमान वास्तविकता व आवश्यकता के अनुरूप उनकी तैयारी के स्वरूप को गत्यात्मक बनाकर उनके चयन के लिए सर्वोत्कृष्ट प्रयास करेगा।  </p>
+            <a href="" data-redirect-url="/tests" class="btn  btn-success ">Get started</a>
+        </div>
+       
+    </div>
+
+    <div class="col-md-12 vsi">
+        <div class="col-md-6 col-sm-12">
+            <img class="img-responsive js-lazy-load-img loaded" data-src="//civilpedia.com/assets/img/landing/civilpedia-test-page-2.jpg" alt="Test User Interface" src="//testbook.com/assets/img/landing/testbook-test-page-2.jpg" data-was-processed="true">
+        </div>
+        <div class="col-md-6 col-sm-12 vertical-slide-content">
+            <h2>हिंदी माध्यम को पूर्णत: <br>समर्पित इस मंच का निर्माण!</h2>
+            <p class="text"> यह मंच हिंदी माध्यम के छात्रों को परीक्षा के बदलते स्वरूप के अनुरूप स्वयं में परिवर्तन के लिए मार्गदर्शन प्रदान करेगा तथा वर्तमान वास्तविकता व आवश्यकता के अनुरूप उनकी तैयारी के स्वरूप को गत्यात्मक बनाकर उनके चयन के लिए सर्वोत्कृष्ट प्रयास करेगा।  </p>
+
+            <a href="" data-redirect-url="/tests" class="btn  btn-success ">Get started</a>
+        </div>
+        
+    </div>  
+  </div>
+</section>
 
 </div>
 

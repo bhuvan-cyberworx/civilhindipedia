@@ -41,7 +41,7 @@ include_once('INCLUDES/menu.php');
   <div class="container p0 mt-4 blog-search">
     <div class="row">
       <div class="blog-headline col-md-8 ">
-        <h2 class="related-post-title p0 ">New Blog Notifications</h2>
+        <h2 class="related-post-title p0 ">New Blog blog</h2>
       </div>
       <div class="  p0 col-md-4 widget search-widget">
   <!-- <h5 class="card-header">Search CivilPedia</h5> -->
@@ -67,7 +67,7 @@ include_once('INCLUDES/menu.php');
     <div class="row p0 ">
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -79,7 +79,7 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -91,7 +91,7 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -104,7 +104,7 @@ include_once('INCLUDES/menu.php');
 
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -117,7 +117,7 @@ include_once('INCLUDES/menu.php');
 
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center" >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -129,7 +129,7 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -142,7 +142,7 @@ include_once('INCLUDES/menu.php');
 
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -155,7 +155,7 @@ include_once('INCLUDES/menu.php');
 
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -168,7 +168,7 @@ include_once('INCLUDES/menu.php');
 
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -181,7 +181,7 @@ include_once('INCLUDES/menu.php');
 
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -193,7 +193,7 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
@@ -205,7 +205,7 @@ include_once('INCLUDES/menu.php');
     </div>
 
     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" data-aos="fade-right">
-       <a href="notifications.php" >
+       <a href="blog.php" >
         <div class="card text-center"  >
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">

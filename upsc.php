@@ -54,7 +54,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सिविल सेवा परीक्षा </h4><h4 class="card-title related-post-title text-center english-title">(IAS)</h4>
+              <img src="IMAGES/ICONS/IAS.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सिविल सेवा परीक्षा </h4><h4 class="card-title related-post-title text-center english-title">(IAS)</h4>
               
           </div>
        </div>
@@ -67,7 +67,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">भारतीय वन सेवा </h4><h4 class="card-title related-post-title text-center english-title">(IFoS)</h4>
+              <img src="IMAGES/ICONS/IFOS.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">भारतीय वन सेवा </h4><h4 class="card-title related-post-title text-center english-title">(IFoS)</h4>
               
           </div>
        </div>
@@ -80,7 +80,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">संयुक्त रक्षा सेवाएं </h4><h4 class="card-title related-post-title text-center english-title">(CDS)</h4>
+              <img src="IMAGES/ICONS/CDS.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">संयुक्त रक्षा सेवाएं </h4><h4 class="card-title related-post-title text-center english-title">(CDS)</h4>
               
           </div>
        </div>
@@ -92,7 +92,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0"></h4>राष्ट्रीय रक्षा अकादमी <h4 class="card-title related-post-title text-center english-title">(NDA)</h4>
+              <img src="IMAGES/ICONS/NDA.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0"></h4>राष्ट्रीय रक्षा अकादमी <h4 class="card-title related-post-title text-center english-title">(NDA)</h4>
               
           </div>
        </div>
@@ -104,7 +104,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">केंद्रीय सशस्त्र पुलिस बलों </h4><h4 class="card-title related-post-title text-center english-title">(CAPF)</h4>
+              <img src="IMAGES/ICONS/CAPF.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">केंद्रीय सशस्त्र पुलिस बलों </h4><h4 class="card-title related-post-title text-center english-title">(CAPF)</h4>
               
           </div>
        </div>
@@ -116,7 +116,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सहायक भविष्य निधि आयुक्त </h4><h4 class="card-title related-post-title text-center english-title">(APFC)</h4>
+              <img src="IMAGES/ICONS/APFC.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0">सहायक भविष्य निधि आयुक्त </h4><h4 class="card-title related-post-title text-center english-title">(APFC)</h4>
               
           </div>
        </div>

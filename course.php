@@ -114,7 +114,7 @@ include_once('INCLUDES/menu.php');
         <div class="card text-center"  style="background: #f5f5f5;">
           <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
           <div class="card-block p5">
-              <img src="IMAGES/ICONS/Pattern-of-Exams.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0"></h4>परामर्श सेवाएं<h4 class="card-title related-post-title text-center english-title">(Counselling Services)</h4>
+              <img src="IMAGES/ICONS/Counselling-Services.png " alt="Test" class="responsive-img pt20"><h4 class="card-title related-post-title text-center p0 m0"></h4>परामर्श सेवाएं<h4 class="card-title related-post-title text-center english-title">(Counselling Services)</h4>
               
           </div>
        </div>
