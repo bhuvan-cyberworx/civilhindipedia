@@ -139,25 +139,32 @@ include_once('INCLUDES/header.php');
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
 <script>
 
+// 
 
-new Chart(document.getElementById("bar-chart-grouped"), {
+
+new Chart(document.getElementById("bar-chart-grouped").getContext("2d"), {
     type: 'bar',
     maintainAspectRatio: false,
+    animation:false,
+    scaleOverride:true,
+    scaleSteps:9,
+    scaleStartValue:0,
+    scaleStepWidth:10,
     data: {
-      labels: ["Reasoning", "Quantitative Aptitude", "English Language", "General Awareness"],
+      labels: ["History", "Geography","Maths","Physics","Hindi", "English"],
       datasets: [
         {
           label: "Incorrect",
           backgroundColor: "#FF6B6B",
-          data: [10,20,30,23]
+          data: [30,24,36,15,41,26]
         }, {
           label: "Correct",
           backgroundColor: "#2EC4B6",
-          data: [30,42,10,7]
+          data: [49,21,39,43,29,12]
         },{
           label:"Not Attempted",
           backgroundColor: "#50514F",
-          data:[20,10,20,30]
+          data:[29,23,34,16,29,34]
         }
       ]
     },
@@ -170,13 +177,25 @@ new Chart(document.getElementById("bar-chart-grouped"), {
         yAxes: [{
           scaleLabel: {
             display: true,
-            labelString: 'Marks'
+            labelString: '',
+
+          },
+          ticks: {
+              beginAtZero: true,
+              stepSize: 10,
+              min: 0
+              
           }
         }],
         xAxes: [{
           scaleLabel: {
             display: true,
-            labelString: 'Section'
+            labelString: 'Number of Questions'
+          },
+          ticks: {
+              beginAtZero: true,
+              stepSize: 10,
+              min: 0
           }
         }]
       }     

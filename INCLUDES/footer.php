@@ -26,8 +26,13 @@
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"     async defer></script>
 
 <!-- Chart Js CDN -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+
 <!-- <script type="text/javascript" src="countdowntimer/jquery.countdownTimer.js"></script> -->
+
+<!-- including Chart Js Annotations plugin -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.5/chartjs-plugin-annotation.js"></script>
+
 <script type="text/javascript" src="JS/onlineStatus.js"></script>
 
 

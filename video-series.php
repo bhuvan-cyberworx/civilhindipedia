@@ -16,7 +16,7 @@ include_once('INCLUDES/menu.php');
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 p0">
         <ul class="cs-breadcrumb">
-          <li><a href="https://www.educationinsta.io/">Home</a></li>
+          <li><a href="">Home</a></li>
           <li>
             Test Series         </li>
         </ul>
@@ -48,7 +48,7 @@ include_once('INCLUDES/menu.php');
   </ul>
   </div>
 </section> -->
-
+<div id="video-series-page">
 <div class="tab-content ">
 <div role="tabpanel" class="tab-pane active row" id="objective">
 
@@ -78,13 +78,13 @@ include_once('INCLUDES/menu.php');
     
     <div class="row">
         
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
+       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
          <a href="video-series-category.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
                 <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
+                <h4 class="card-title related-post-title text-center p0 m0">सिविल सेवा परीक्षा</h4><h4 class="card-title related-post-title text-center english-title">(IAS)</h4>
                 
             </div>
          </div>
@@ -96,34 +96,7 @@ include_once('INCLUDES/menu.php');
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
                 <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
-                
-            </div>
-         </div>
-       </a>
-      </div>
-
-
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-category.php">
-          <div class="card text-center"  style="background: #f5f5f5;">
-            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-            <div class="card-block p5">
-                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
-                
-            </div>
-         </div>
-       </a>
-      </div>
-
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="video-series-category.php">
-          <div class="card text-center"  style="background: #f5f5f5;">
-            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-            <div class="card-block p5">
-                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
+                <h4 class="card-title related-post-title text-center p0 m0">भारतीय वन सेवा</h4><h4 class="card-title related-post-title text-center english-title">(IFoS)</h4>
                 
             </div>
          </div>
@@ -137,7 +110,20 @@ include_once('INCLUDES/menu.php');
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
                 <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
+                <h4 class="card-title related-post-title text-center p0 m0">संयुक्त रक्षा सेवाएं</h4><h4 class="card-title related-post-title text-center english-title">(CDS)</h4>
+                
+            </div>
+         </div>
+       </a>
+      </div>
+
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
+         <a href="video-series-category.php">
+          <div class="card text-center"  style="background: #f5f5f5;">
+            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+            <div class="card-block p5">
+                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
+                <h4 class="card-title related-post-title text-center p0 m0">राष्ट्रीय रक्षा अकादमी</h4><h4 class="card-title related-post-title text-center english-title">(NDA)</h4>
                 
             </div>
          </div>
@@ -151,7 +137,21 @@ include_once('INCLUDES/menu.php');
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
                 <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
+                <h4 class="card-title related-post-title text-center p0 m0">केंद्रीय सशस्त्र पुलिस बलों</h4><h4 class="card-title related-post-title text-center english-title">(CAPF)</h4>
+                
+            </div>
+         </div>
+       </a>
+      </div>
+
+
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
+         <a href="video-series-category.php">
+          <div class="card text-center"  style="background: #f5f5f5;">
+            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+            <div class="card-block p5">
+                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
+                <h4 class="card-title related-post-title text-center p0 m0">सहायक भविष्य निधि आयुक्त</h4><h4 class="card-title related-post-title text-center english-title">(APFC)</h4>
                 
             </div>
          </div>
@@ -493,48 +493,120 @@ include_once('INCLUDES/menu.php');
 <!-- End Subjective Test -->
 </div>
 
-<!-- End Tab Pane -->
-<!-- <section class="civilhindipedia-features">
-<div id="features-civil" class="row vertical-slider">
-    <div class="col-md-12 vsi">
-        <div class="col-md-6 col-sm-12 vertical-slide-content">
-            <h2>हिंदी माध्यम को पूर्णत: <br>समर्पित इस मंच का निर्माण!</h2>
-            <p class="text"> यह मंच हिंदी माध्यम के छात्रों को परीक्षा के बदलते स्वरूप के अनुरूप स्वयं में परिवर्तन के लिए मार्गदर्शन प्रदान करेगा तथा वर्तमान वास्तविकता व आवश्यकता के अनुरूप उनकी तैयारी के स्वरूप को गत्यात्मक बनाकर उनके चयन के लिए सर्वोत्कृष्ट प्रयास करेगा।  </p>
+<section class="pt-50" style="background: #fff;">
+<div class="hl-help container">
+<h2 class="section-heading text-center pb-50">
+कक्षा कार्यक्रम की विशेषताएं
+</h2>
+<div class="row m0" id="video-series-features">
 
-            <a href="" data-redirect-url="/tests" class="btn  btn-success ">Get started</a>
-        </div>
-        <div class="col-md-6 col-sm-12">
-            <img class="img-responsive js-lazy-load-img loaded" data-src="//civilpedia.com/assets/img/landing/civilpedia-test-page-2.jpg" alt="Test User Interface" src="//testbook.com/assets/img/landing/testbook-test-page-2.jpg" data-was-processed="true">
-        </div>
+<div class="col-lg-6 col-sm-12 text-center">
+  <div class="help-container row">
+    <div class="img-container col-lg-5">
+      <img src="IMAGES/consultation/1-appointment.jpg">
     </div>
-    <div class="col-md-12 vsi">
-        <div class="col-md-6 col-sm-12 vertical-slide-content">
-            <h2>हिंदी माध्यम को पूर्णत: <br>समर्पित इस मंच का निर्माण!</h2>
-            <p class="text"> यह मंच हिंदी माध्यम के छात्रों को परीक्षा के बदलते स्वरूप के अनुरूप स्वयं में परिवर्तन के लिए मार्गदर्शन प्रदान करेगा तथा वर्तमान वास्तविकता व आवश्यकता के अनुरूप उनकी तैयारी के स्वरूप को गत्यात्मक बनाकर उनके चयन के लिए सर्वोत्कृष्ट प्रयास करेगा।  </p>
-            <a href="" data-redirect-url="/tests" class="btn  btn-success ">Get started</a>
-        </div>
-        <div class="col-md-6 col-sm-12">
-            <img class="img-responsive js-lazy-load-img loaded" data-src="//civilpedia.com/assets/img/landing/civilpedia-test-page-2.jpg" alt="Test User Interface" src="//testbook.com/assets/img/landing/testbook-test-page-2.jpg" data-was-processed="true">
-        </div>
+    <div class="content-container col-lg-7">
+      <div class="details-container">
+      <span class="details">Connect with your Expert</span>
+      </div>
+      <div class="desc">
+      Chat anonymously with a YourDOST expert who's here to help you and not judge you.
+      </div>
     </div>
-
-    <div class="col-md-12 vsi">
-        <div class="col-md-6 col-sm-12 vertical-slide-content">
-            <h2>हिंदी माध्यम को पूर्णत: <br>समर्पित इस मंच का निर्माण!</h2>
-            <p class="text"> यह मंच हिंदी माध्यम के छात्रों को परीक्षा के बदलते स्वरूप के अनुरूप स्वयं में परिवर्तन के लिए मार्गदर्शन प्रदान करेगा तथा वर्तमान वास्तविकता व आवश्यकता के अनुरूप उनकी तैयारी के स्वरूप को गत्यात्मक बनाकर उनके चयन के लिए सर्वोत्कृष्ट प्रयास करेगा।  </p>
-
-            <a href="" data-redirect-url="/tests" class="btn  btn-success ">Get started</a>
-        </div>
-        <div class="col-md-6 col-sm-12">
-            <img class="img-responsive js-lazy-load-img loaded" data-src="//civilpedia.com/assets/img/landing/civilpedia-test-page-2.jpg" alt="Test User Interface" src="//testbook.com/assets/img/landing/testbook-test-page-2.jpg" data-was-processed="true">
-        </div>
-    </div>  
   </div>
-</section> -->
+</div>
 
+<div class="col-lg-6 col-sm-12 text-center">
+  <div class="help-container row">
+    <div class="img-container col-lg-5">
+      <img src="IMAGES/consultation/1-appointment.jpg">
+    </div>
+    <div class="content-container col-lg-7">
+      <div class="details-container">
+      <span class="details">Connect with your Expert</span>
+      </div>
+      <div class="desc">
+      Chat anonymously with a YourDOST expert who's here to help you and not judge you.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6 col-sm-12 text-center">
+  <div class="help-container row">
+    <div class="img-container col-lg-5">
+      <img src="IMAGES/consultation/1-appointment.jpg">
+    </div>
+    <div class="content-container col-lg-7">
+      <div class="details-container">
+      <span class="details">Connect with your Expert</span>
+      </div>
+      <div class="desc">
+      Chat anonymously with a YourDOST expert who's here to help you and not judge you.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6 col-sm-12 text-center">
+  <div class="help-container row">
+    <div class="img-container col-lg-5">
+      <img src="IMAGES/consultation/1-appointment.jpg">
+    </div>
+    <div class="content-container col-lg-7">
+      <div class="details-container">
+      <span class="details">Connect with your Expert</span>
+      </div>
+      <div class="desc">
+      Chat anonymously with a YourDOST expert who's here to help you and not judge you.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6 col-sm-12 text-center">
+  <div class="help-container row">
+    <div class="img-container col-lg-5">
+      <img src="IMAGES/consultation/1-appointment.jpg">
+    </div>
+    <div class="content-container col-lg-7">
+      <div class="details-container">
+      <span class="details">Connect with your Expert</span>
+      </div>
+      <div class="desc">
+      Chat anonymously with a YourDOST expert who's here to help you and not judge you.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6 col-sm-12 text-center">
+  <div class="help-container row">
+    <div class="img-container col-lg-5">
+      <img src="IMAGES/consultation/1-appointment.jpg">
+    </div>
+    <div class="content-container col-lg-7">
+      <div class="details-container">
+      <span class="details">Connect with your Expert</span>
+      </div>
+      <div class="desc">
+      Chat anonymously with a YourDOST expert who's here to help you and not judge you.
+      </div>
+    </div>
+  </div>
 </div>
 
 
+
+
+
+</div>
+</div>
+ </section>
+
+</div>
+
+</div>
 
 
 <!-- Including Footer menu -->

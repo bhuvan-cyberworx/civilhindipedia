@@ -19,7 +19,7 @@ No matter what's troubling you,
 get the support you need, right here, right now.
 </div>
 <div class="home-actions">
-<span class="chat button">CHAT NOW</span>
+
 <span class="appointment button">BOOK APPOINTMENT</span>
 </div>
 
@@ -120,14 +120,13 @@ With 24X7 support from our experts, bid goodbye to your old self and be on your 
 <div class="row no-margin">
 
 <div class="col-lg-4 consultation-tile col-sm-12 p0">
-	<a href="consult-category.php">
+<a href="consult-category.php">
 	<div class="content" data-url="career-advice">
 	<img src="IMAGES/consultation/1.jpg">
 	<div class="package-details">
 	<div class="title">हम आपके लिए सर्वश्रेष्ठ कैरियर का निर्णय लेने में आपकी सहायता करते हैं</div>
-	<div class="duration">
-	Recommended
-	Duration : 2 weeks
+	<div class="text-left">
+		<a href="" class="btn book-session">Book Now</a>
 	</div>
 	</div>
 	<div class="desc">
@@ -146,9 +145,8 @@ With 24X7 support from our experts, bid goodbye to your old self and be on your 
 <img src="IMAGES/consultation/2.jpg">
 <div class="package-details">
 <div class="title">Become a more confident you</div>
-<div class="duration">
-Recommended
-Duration : 4 weeks
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
 </div>
 </div>
 <div class="desc" style="top: 100%;">
@@ -168,9 +166,8 @@ Duration : 4 weeks
 <img src="IMAGES/consultation/3.jpg">
 <div class="package-details">
 <div class="title">Overcome pre-wedding jitters</div>
-<div class="duration">
-Recommended
-Duration : 4 weeks
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
 </div>
 </div>
 <div class="desc">
@@ -188,9 +185,11 @@ Duration : 4 weeks
 <div class="col-sm-4  col-lg-4 consultation-tile p0">
 <a href="consult-category.php">
 <div class="content" data-url="post-marriage-counseling">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/10.png">
+<img src="IMAGES/consultation/4.jpg">
 <div class="title">Strengthen Marital Relationship</div>
-<div class="duration">Recommended Duration : 5 weeks</div>
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
+</div>
 <div class="desc">
 <div class="heading">Strengthen Marital Relationship</div>
 <div class="subheading">Couples therapy program with a dedicated licensed therapist to help married couples or individuals with postmarital problems &amp; tips to lead a happy marriage life.</div>
@@ -206,12 +205,11 @@ Duration : 4 weeks
 <div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="career-advice">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/9.png">
+<img src="IMAGES/consultation/5.jpg">
 <div class="package-details">
 <div class="title">Make better Career Decisions</div>
-<div class="duration">
-Recommended
-Duration : 2 weeks
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
 </div>
 </div>
 <div class="desc">
@@ -228,9 +226,11 @@ Duration : 2 weeks
 <div class="col-sm-4  col-lg-4 consultation-tile p0">
 <a href="consult-category.php">
 <div class="content" data-url="cope-with-lose-of-someone">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/growing.png">
+<img src="IMAGES/consultation/6.jpg">
 <div class="title">Grieving and Growing</div>
-<div class="duration">Recommended Duration : 6 weeks</div>
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
+</div>
 <div class="desc" style="top: 100%;">
 <div class="heading">Grieving and Growing</div>
 <div class="subheading">Personalised Grief counselling program with a dedicated coach for helping you cope with loss of someone which includes interactive sessions with therapist.</div>
@@ -246,12 +246,11 @@ Duration : 2 weeks
 <div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="career-advice">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/9.png">
+<img src="IMAGES/consultation/7.jpg">
 <div class="package-details">
 <div class="title">Make better Career Decisions</div>
-<div class="duration">
-Recommended
-Duration : 2 weeks
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
 </div>
 </div>
 <div class="desc">
@@ -267,12 +266,11 @@ Duration : 2 weeks
 <div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="building-self-confidence">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/confident1.png">
+<img src="IMAGES/consultation/8.jpg">
 <div class="package-details">
 <div class="title">Become a more confident you</div>
-<div class="duration">
-Recommended
-Duration : 4 weeks
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
 </div>
 </div>
 <div class="desc" style="top: 100%;">
@@ -289,12 +287,11 @@ Duration : 4 weeks
 <div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="pre-marital-counseling">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/8.png">
+<img src="IMAGES/consultation/9.jpg">
 <div class="package-details">
 <div class="title">Overcome pre-wedding jitters</div>
-<div class="duration">
-Recommended
-Duration : 4 weeks
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
 </div>
 </div>
 <div class="desc">
@@ -312,12 +309,11 @@ Duration : 4 weeks
 <div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="career-advice">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/9.png">
+<img src="IMAGES/consultation/10.jpg">
 <div class="package-details">
 <div class="title">Make better Career Decisions</div>
-<div class="duration">
-Recommended
-Duration : 2 weeks
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
 </div>
 </div>
 <div class="desc">
@@ -333,12 +329,11 @@ Duration : 2 weeks
 <div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="building-self-confidence">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/confident1.png">
+<img src="IMAGES/consultation/11.jpg">
 <div class="package-details">
 <div class="title">Become a more confident you</div>
-<div class="duration">
-Recommended
-Duration : 4 weeks
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
 </div>
 </div>
 <div class="desc" style="top: 100%;">
@@ -354,12 +349,11 @@ Duration : 4 weeks
 <div class="col-lg-4 consultation-tile col-sm-12 p0">
 <a href="consult-category.php">
 <div class="content" data-url="pre-marital-counseling">
-<img src="https://d1hny4jmju3rds.cloudfront.net/newHome/8.png">
+<img src="IMAGES/consultation/12.jpg">
 <div class="package-details">
 <div class="title">Overcome pre-wedding jitters</div>
-<div class="duration">
-Recommended
-Duration : 4 weeks
+<div class="text-left">
+	<a href="" class="btn book-session">Book Now</a>
 </div>
 </div>
 <div class="desc">

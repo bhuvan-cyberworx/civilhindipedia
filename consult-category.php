@@ -52,7 +52,7 @@ include_once('INCLUDES/menu.php');
 	<div class="container">
 		<h2 class="section-heading text-center" style="text-decoration: underline;margin-bottom: 30px;">अनुसंधान समर्थित निजीकृत कार्यक्रम</h2>
 		<div class="row keynotes">
-			<div class="col-md-6">
+			<div class="col-md-6 p0" style="border-right: 2px solid #eee;">
 				<ul class="list-unstyled">
 					<li class="span keynotes-heading"> आपका प्रश्न</li>
 					<li><i class="fa fa-check "></i> कौन सा कैरियर चुनने के बारे में उलझन में</li>
@@ -60,7 +60,7 @@ include_once('INCLUDES/menu.php');
 					<li><i class="fa fa-check "></i> कैरियर बदलाव की तलाश में</li>
 				</ul>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-6 p0">
 				<ul class="list-unstyled list-right">
 					<li class="span keynotes-heading">हमारे समाधान
 </li>

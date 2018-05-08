@@ -19,7 +19,8 @@ a:hover {
 
   /* color: #fff !important; */
 
-  text-decoration: none !important; }
+  text-decoration: none !important;
+   }
 
 
 .p15 {
@@ -503,7 +504,7 @@ background: #fff;
     background: linear-gradient(to right,#2683a3 0,#2683a3 1%,#6bbbb8 34%,#2eaf9e 100%);
 
 
-    background: #083656;
+    background: #3E83B3;
 
 }
 
@@ -5043,7 +5044,7 @@ a.btn.save-and-next {
   overflow-y: scroll;
 }
 .questions-list ul li{
-  width: 20% !important;
+  width: 12% !important;
 }
 
 
@@ -5063,6 +5064,12 @@ height: 40px;
 }
 .pause-button a{
   font-weight: 500;
+}
+
+.section-title{
+  font-weight: 600;
+  padding-left: 5px;
+  margin-bottom: 3px;
 }
 .submit-test {
   
@@ -5723,19 +5730,29 @@ ul#exam-filter-list-1,  ul#exam-filter-list-2{
  
  #exam-filter ul li a,   #exam-filter ul li button{
   font-size: 14px !important;
-  color: #01A2A6 ;
+  color: #043638 ;
   background: transparent;
-  border:1px solid #01A2A6 ;
+  border:1px solid #043638 ;
 
 
  }
-
-.filter-active, .filter-active .btn:hover {
-  background-color: #333 !important;
-  color: #fff !important;
-  border: 1px solid #333 !important;
+#video-series-page #exam-filter ul li a,#video-series-page   #exam-filter ul li button {
+    
+    color: #148e7e;
+   
+    border: 1px solid #148e7e;
+    /* font-weight: 500; */
 }
-
+.filter-active, .filter-active .btn:hover {
+  background-color: #043638 !important;
+  color: #fff !important;
+  border: 1px solid #043638 !important;
+}
+#video-series-page .filter-active, #video-series-page .filter-active .btn:hover {
+  background-color: #148e7e !important;
+  color: #fff !important;
+  border: 1px solid #148e7e !important;
+}
 #more-exams .dropdown-menu{
   width: 200px !important;
   position: absolute !important;
@@ -5767,15 +5784,18 @@ ul#exam-filter-list-1,  ul#exam-filter-list-2{
 }
 
 .test-series .card .card-block{
-  padding: 40px;
+  padding: 40px 20px;
 }
 
 .test-series{
   overflow-x: hidden;
+
 }
 
 
-
+div#video-series-page .card {
+    background: #148e7e !important;
+}
 
 /*VIDEO CARD SPECIAL CSS STARTS HERE */
 .video-info{
@@ -5873,8 +5893,9 @@ button.rwadx-btn-yelow::after {
 
 .hl-banner {
     height: 520px;
-    background-image: url(https://d1edzrgaei4psf.cloudfront.net/newHome/BG.svg);
+    background-image: url(../IMAGES/consultation/banner1.jpg);
     background-size: cover;
+        background-position: bottom;
 }
  .hl-header {
     position: fixed;
@@ -6121,7 +6142,9 @@ button.rwadx-btn-yelow::after {
 
  .hl-test {
     height: 387px;
-    background-image: url(https://d1edzrgaei4psf.cloudfront.net/newHome/4.svg);
+    background-image: url(../IMAGES/consultation/banner2.jpg);
+    background-position: bottom;
+    background-size: cover;
 }
 
  .hl-test .test-container {
@@ -6132,20 +6155,20 @@ button.rwadx-btn-yelow::after {
 }
 
 .hl-test .test-container .main {
-    color: #fff;
+    color: #000;
     font-size: 30px;
     margin-bottom: 30px;
 }
 
  .hl-test .test-container .submain {
-    color: #fff;
+    color: #000;
     font-size: 16px;
     margin-bottom: 40px;
     line-height: 30px;
 }
 
  .hl-test .test-container .test {
-    color: #231148;
+    color: #fff;
     font-size: 16px;
     font-weight: 600;
     background-color: #F48453;
@@ -6187,7 +6210,7 @@ button.rwadx-btn-yelow::after {
 }
 
 .keynotes{
-  padding: 20px 5%;
+  padding: 0px 0%;
   background: #fff;
   position: relative;
   margin-top: 00px;
@@ -6195,15 +6218,23 @@ button.rwadx-btn-yelow::after {
   /*box-shadow: 2px 4px 8px 0px rgba(46,61,73,0.2);*/
   border-radius: 5px;
   width: 100%;
+  border: 2px solid #eee;
 }
 
 .keynotes-heading{
   font-size: 20px;
   font-weight: 600;
+  border-bottom: 2px solid #eee;
 }
 
 .keynotes ul li{
   padding:10px 0;
+  padding-left: 5%;
+
+}
+.keynotes ul li:nth-child(2){
+  margin-top: 15px;
+
 }
 .keynotes ul li i{
   padding-right: 5px;
@@ -6877,7 +6908,9 @@ a.btn.save-and-next {
 .col-md-12.test-section-title {
     line-height: 38px;
 }
-
+.col-md-2.test-section-title{
+  font-weight: 700 !important ;
+}
 a.btn.submit-test-btn {
   border:0 !important;
   padding: 7px 0;
@@ -7006,8 +7039,14 @@ div#Completed-session .card.course-card.hoverable {
 
 
 .test-series .card{
-  background: #274440 !important;
+  background: #043638   !important;
   color: #fff;
+  border-radius: 8px;
+    box-shadow: 1px 3px 10px 0px rgba(46,61,73,0.1);
+}
+.test-series .card:hover{
+
+    box-shadow: 1px 3px 10px 0px rgba(46,61,73,0.3);
 }
 
 .test-series .card:before {
@@ -7017,7 +7056,7 @@ div#Completed-session .card.course-card.hoverable {
     width: 100%;
     background: url(../IMAGES/ICONS/card-back.png) !important;
     background-size: cover;
-    opacity: 0.1;
+    opacity: 0.25;
     background-position: left center !important;
 }
 
@@ -7071,7 +7110,7 @@ div#Completed-session .card.course-card.hoverable {
   margin-top: 60px;
 }
 .list-right{
-  padding-left: 15%;
+  padding-left: 0%;
 }
 
 .main-banner:before{
@@ -7102,4 +7141,32 @@ div#Completed-session .card.course-card.hoverable {
 .col-lg-4.consultation-tile {
     height: 350px;
     margin-bottom: 50px;
+}
+
+
+
+div#video-series-features img {
+    width: 100%;
+}
+
+div#video-series-features .details {
+    font-size: 20px;
+    color: #333;
+}
+
+div#video-series-features  .help-container{
+  margin-bottom: 80px;
+}
+
+a.btn.book-session {
+    padding: 8px 15px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    margin-left: 5.3%;
+    border-radius: 3px !important;
+    position: absolute;
+    bottom: 6%;
 }

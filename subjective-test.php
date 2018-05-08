@@ -52,7 +52,7 @@ include_once('INCLUDES/menu.php');
 		
 	</div>
 </div>
-<div class="question-list container">
+<!-- <div class="question-list container">
 	<h1 class="text-center">प्रश्न पत्र</h1>
 	<div class="row">
 		<ul class="list-unstyled col-lg-6">
@@ -82,7 +82,7 @@ include_once('INCLUDES/menu.php');
 		</ul>
 	</div>
 	
-</div>
+</div> -->
 
 
 <div class="container pt-50">

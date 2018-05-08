@@ -170,6 +170,132 @@ include_once('INCLUDES/menu.php');
   </div>
 </section>
 
+<section class="">
+  <div id="related-courses" class="test-container-class">
+    <div class="container p0">
+    <div class="title-2 text-left">
+    सामान्य अध्ययन
+    </div>
+    <div class="row course-card-slider">
+
+      <div class="card course-card hoverable" >
+      <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+      <div class="card-body">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      <p class="card-text"><span class="badge badge-secondary">सामान्य अध्ययन प्रश्नोत्तरी</span>
+      <div class="date-time font-small">
+      Expires on: <span class="ng-binding">March 31, 2018</span>
+      </div>
+
+      <a href="" class="syll-info" data-toggle="modal" data-target=".pack-info">Pack Info</a>
+        <a href="papers/paper-1.pdf" download class="syll-info float-right" style="padding-top: 1px !important"><i class="fas fa-download"></i> Download</a>
+      </p>
+      <ul class="list-group list-unstyled">
+      <li><span>( 5 + 5 ) </span>Test included in pack</li>
+      <!--<li><span>( 5 + 5 ) </span>Test included in pack</li> -->
+      </ul>
+      </div>
+      <div class="card-body">
+      <a href="#" class="card-link btn btn-large w-100"><i class="fa fa-rupee-sign"></i> <span class="pack-price">2999</span> - Buy Now</a>
+
+      </div>
+      </div>
+
+      <div class="card course-card hoverable">
+        <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+        <div class="card-body">
+        <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+        <p class="card-text"><span class="badge badge-secondary">सामान्य अध्ययन प्रश्नोत्तरी</span>
+        <div class="date-time font-small">
+        Expires on: <span class="ng-binding">March 31, 2018</span>
+        </div>
+
+        <a href="" class="syll-info" data-toggle="modal" data-target=".pack-info">Pack Info</a>
+        <a href="papers/paper-1.pdf" download class="syll-info float-right" style="padding-top: 1px !important"><i class="fas fa-download"></i> Download</a>
+        
+        </p>
+        <ul class="list-group list-unstyled">
+       <li><span>( 5 + 5 ) </span>Test included in pack</li>
+        </ul>
+        </div>
+        <div class="card-body">
+        <a href="#" class="card-link btn btn-large w-100"><i class="fa fa-rupee-sign"></i> <span class="pack-price">2999</span> - Buy Now</a>
+
+        </div>
+      </div>
+
+      <div class="card course-card hoverable">
+      <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+      <div class="card-body">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      <p class="card-text"><span class="badge badge-secondary">सामान्य अध्ययन प्रश्नोत्तरी</span>
+      <div class="date-time font-small">
+      Expires on: <span class="ng-binding">March 31, 2018</span>
+      </div>
+
+      <a href="" class="syll-info" data-toggle="modal" data-target=".pack-info">Pack Info</a>
+        <a href="papers/paper-1.pdf" download class="syll-info float-right" style="padding-top: 1px !important"><i class="fas fa-download"></i> Download</a>
+      </p>
+      <ul class="list-group list-unstyled">
+     <li><span>( 5 + 5 ) </span>Test included in pack</li>
+      </ul>
+      </div>
+      <div class="card-body">
+      <a href="#" class="card-link btn btn-large w-100"><i class="fa fa-rupee-sign"></i> <span class="pack-price">2999</span> - Buy Now</a>
+
+      </div>
+      </div>
+
+      <div class="card course-card hoverable">
+      <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+      <div class="card-body">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      <p class="card-text"><span class="badge badge-secondary">सामान्य अध्ययन प्रश्नोत्तरी</span>
+      <div class="date-time font-small">
+      Expires on: <span class="ng-binding">March 31, 2018</span>
+      </div>
+
+      <a href="" class="syll-info" data-toggle="modal" data-target=".pack-info">Pack Info</a>
+        <a href="papers/paper-1.pdf" download class="syll-info float-right" style="padding-top: 1px !important"><i class="fas fa-download"></i> Download</a>
+      </p>
+      <ul class="list-group list-unstyled">
+     <li><span>( 5 + 5 ) </span>Test included in pack</li>
+      </ul>
+      </div>
+      <div class="card-body">
+      <a href="#" class="card-link btn btn-large w-100"><i class="fa fa-rupee-sign"></i> <span class="pack-price">2999</span> - Buy Now</a>
+
+      </div>
+      </div>
+
+      <div class="card course-card hoverable">
+      <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+      <div class="card-body">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      <p class="card-text"><span class="badge badge-secondary">सामान्य अध्ययन प्रश्नोत्तरी</span>
+      <div class="date-time font-small">
+      Expires on: <span class="ng-binding">March 31, 2018</span>
+      </div>
+
+      <a href="" class="syll-info" data-toggle="modal" data-target=".pack-info">Pack Info</a>
+        <a href="papers/paper-1.pdf" download class="syll-info float-right" style="padding-top: 1px !important"><i class="fas fa-download"></i> Download</a>
+      </p>
+      <ul class="list-group list-unstyled">
+     <li><span>( 5 + 5 ) </span>Test included in pack</li>
+      </ul>
+      </div>
+      <div class="card-body">
+      <a href="#" class="card-link btn btn-large w-100"><i class="fa fa-rupee-sign"></i> <span class="pack-price">2999</span> - Buy Now</a>
+
+      </div>
+      </div>
+
+
+    </div>
+    </div>
+  </div>
+</section>
+
 
 
 <section>

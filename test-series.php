@@ -40,31 +40,7 @@ include_once('INCLUDES/menu.php');
 
 
 
-<!-- <section id="tutorial-nav-id" class="pb-50">
-  <div class="sticky-top course-nav " style="">
-  <ul class="nav nav-tabs justify-content-center" role="tablist">
-    <li role="presentation" ><a href="#objective" aria-controls="objective" role="tab" data-toggle="tab" class="tab active-tab">उद्देश्य परीक्षाएं (Objective Exams)</a></li>
-    <li role="presentation"><a href="#subjective" aria-controls="subjective" role="tab" data-toggle="tab" class="tab">विषयक परीक्षाएं (Subjective Exams)</a></li>
-    
-   
-  </ul>
-  </div>
-</section> -->
 
-<!-- section id="tutorial-nav-id" class="pb-50">
-  <div class="sticky-top course-nav " >
-     <ul id="navbuttons" class="d-flex  justify-content-center">
-          <li><a href="" href="#objective" aria-controls="objective" role="tab" data-toggle="tab " class="tab active-tab">Some Text </a></li>
-          <li><a href="" href="#objective" aria-controls="objective" role="tab" data-toggle="tab " class="tab active-tab">Some Text</a></li>
-          <li><a href="" href="#objective" aria-controls="objective" role="tab" data-toggle="tab " class="tab active-tab">Some Text</a></li>
-          <li><a href="" href="#objective" aria-controls="objective" role="tab" data-toggle="tab " class="tab active-tab">Some Text</a></li>
-          <li><a href="" href="#objective" aria-controls="objective" role="tab" data-toggle="tab " class="tab active-tab">Some Text</a></li>
-          <li><a href="" href="#objective" aria-controls="objective" role="tab" data-toggle="tab " class="tab active-tab">Some Text</a></li>
-          <li><a href="" href="#objective" aria-controls="objective" role="tab" data-toggle="tab " class="tab active-tab">Some Text</a></li>
-          <li><a href="" href="#objective" aria-controls="objective" role="tab" data-toggle="tab " class="tab active-tab"> Some Text</a></li>
-     </ul>
-</div>
-</section> -->
 
 <div class="tab-content ">
 <div role="tabpanel" class="tab-pane active row" id="objective">
@@ -120,7 +96,7 @@ include_once('INCLUDES/menu.php');
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
                 <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
+                <h4 class="card-title related-post-title text-center p0 m0">सिविल सेवा परीक्षा</h4><h4 class="card-title related-post-title text-center english-title">(IAS)</h4>
                 
             </div>
          </div>
@@ -132,69 +108,69 @@ include_once('INCLUDES/menu.php');
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
             <div class="card-block p5">
                 <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
+                <h4 class="card-title related-post-title text-center p0 m0">भारतीय वन सेवा</h4><h4 class="card-title related-post-title text-center english-title">(IFoS)</h4>
                 
             </div>
          </div>
        </a>
       </div>
 
+
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
+         <a href="series.php">
+          <div class="card text-center"  style="background: #f5f5f5;">
+            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+            <div class="card-block p5">
+                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
+                <h4 class="card-title related-post-title text-center p0 m0">संयुक्त रक्षा सेवाएं</h4><h4 class="card-title related-post-title text-center english-title">(CDS)</h4>
+                
+            </div>
+         </div>
+       </a>
+      </div>
+
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
+         <a href="series.php">
+          <div class="card text-center"  style="background: #f5f5f5;">
+            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+            <div class="card-block p5">
+                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
+                <h4 class="card-title related-post-title text-center p0 m0">राष्ट्रीय रक्षा अकादमी</h4><h4 class="card-title related-post-title text-center english-title">(NDA)</h4>
+                
+            </div>
+         </div>
+       </a>
+      </div>
+
+
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
+         <a href="series.php">
+          <div class="card text-center"  style="background: #f5f5f5;">
+            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+            <div class="card-block p5">
+                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
+                <h4 class="card-title related-post-title text-center p0 m0">केंद्रीय सशस्त्र पुलिस बलों</h4><h4 class="card-title related-post-title text-center english-title">(CAPF)</h4>
+                
+            </div>
+         </div>
+       </a>
+      </div>
+
+
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
+         <a href="series.php">
+          <div class="card text-center"  style="background: #f5f5f5;">
+            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
+            <div class="card-block p5">
+                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
+                <h4 class="card-title related-post-title text-center p0 m0">सहायक भविष्य निधि आयुक्त</h4><h4 class="card-title related-post-title text-center english-title">(APFC)</h4>
+                
+            </div>
+         </div>
+       </a>
+      </div>
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="series.php">
-          <div class="card text-center"  style="background: #f5f5f5;">
-            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-            <div class="card-block p5">
-                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
-                
-            </div>
-         </div>
-       </a>
-      </div>
-
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
-         <a href="series.php">
-          <div class="card text-center"  style="background: #f5f5f5;">
-            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-            <div class="card-block p5">
-                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
-                
-            </div>
-         </div>
-       </a>
-      </div>
-
-
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="series.php">
-          <div class="card text-center"  style="background: #f5f5f5;">
-            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-            <div class="card-block p5">
-                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
-                
-            </div>
-         </div>
-       </a>
-      </div>
-
-
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
-         <a href="series.php">
-          <div class="card text-center"  style="background: #f5f5f5;">
-            <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
-            <div class="card-block p5">
-                <!-- <img src="IMAGES/ICONS/Consulting-service-center.png " alt="Test" class="responsive-img pt20"> -->
-                <h4 class="card-title related-post-title text-center p0 m0">इतिहास</h4><h4 class="card-title related-post-title text-center english-title">(History)</h4>
-                
-            </div>
-         </div>
-       </a>
-      </div>
-
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter examone" data-aos="fade-right">
          <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
@@ -219,7 +195,7 @@ include_once('INCLUDES/menu.php');
          </div>
        </a>
       </div>
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter upsc" data-aos="fade-right">
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 filter state-pcs" data-aos="fade-right">
          <a href="series.php">
           <div class="card text-center"  style="background: #f5f5f5;">
             <!-- <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%"> -->
@@ -568,7 +544,7 @@ include_once('INCLUDES/menu.php');
   </div>
 </section>
 
-<section class="civilhindipedia-features">
+<section class="civilhindipedia-features" style="background: #fff">
 <div id="features-civil" class="row vertical-slider">
     <div class="col-md-12 vsi">
       <div class="col-md-6 col-sm-12">

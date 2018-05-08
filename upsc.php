@@ -8,6 +8,21 @@ include_once('INCLUDES/menu.php');
 ?>
 <div class="course course-page" style="padding: 0 0 50px 0">
 
+<section>
+  <div class="page-section" style="border-bottom:1px solid #f4f4f4;">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 p0">
+        <ul class="cs-breadcrumb">
+          <li><a href="">Home</a></li>
+          <li>
+            upsc          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
 
 <section>
   <div class="page-section heading-bg-text header-gradient" >

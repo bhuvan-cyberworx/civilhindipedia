@@ -151,6 +151,228 @@ include_once('INCLUDES/menu.php');
   </div>
 </section>
 
+<section  class="">
+  <div id="related-courses" class="test-container-class">
+    <div class="container p0">
+    <div class="title-2 text-left">
+    संबंधित वीडियो ट्यूटोरियल
+    </div>
+    <div class="row course-card-slider">
+
+ <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+    <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+    <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+    <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+
+    <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+  
+
+    </div>
+    </div>
+  </div>
+</section>
+
+<section  class="">
+  <div id="related-courses" class="test-container-class">
+    <div class="container p0">
+    <div class="title-2 text-left">
+    संबंधित वीडियो ट्यूटोरियल
+    </div>
+    <div class="row course-card-slider">
+
+ <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+    <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+    <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+    <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+
+    <div class="card course-card video-card hoverable">
+      <div class="video-thumbnail" style="background: url('https://udemy-images.udemy.com/course/240x135/851712_fc61_5.jpg');background-size: cover;" >        
+      </div>
+      <div class="card-body pb-0">
+      <h5 class="card-title">पीसीएस सामान्य अध्ययन टेस्‍ट।</h5>
+      </div>
+
+      <div class="video-info">
+      
+      <span class="video-number float-left">20 videos | 10 Hours</span>
+      <span class="price float-right">₹ 320</span>
+        
+      </div>
+      <div class="card-body ">
+      <a href="#" class="card-link btn btn-large w-100">Buy Now</a>
+      </div>
+
+    </div>
+
+  
+
+    </div>
+    </div>
+  </div>
+</section>
+
 <section class="pt-50">
   <div id="related-courses" class="test-container-class">
     <div class="container p0">
