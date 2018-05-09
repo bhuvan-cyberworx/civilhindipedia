@@ -7170,3 +7170,7 @@ a.btn.book-session {
     position: absolute;
     bottom: 6%;
 }
+
+span.badge.badge-secondary a {
+    color: #fff;
+}

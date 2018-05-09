@@ -48,11 +48,16 @@ include_once('INCLUDES/menu.php');
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
             <a href="notification.php">
+              <img style="    float: left; margin-right: 20px; margin-top: 8px;" src="IMAGES/newspaper.png" width="45px" height="45px" alt="" class="media-object mCS_img_loaded">
               <h2 class="notification-title">
                 Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
-        </div>
+            <div class="float-left">
+              <span href="" class="badge badge-secondary"><a href="">Result</a></span>
+              <span href="" class="badge badge-secondary "><a href="">Admit Card</a></span>
+              </div>
+             </div>
         
       </div>
 
@@ -60,11 +65,16 @@ include_once('INCLUDES/menu.php');
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
             <a href="notification.php">
+              <img style="    float: left; margin-right: 20px; margin-top: 8px;" src="IMAGES/newspaper.png" width="45px" height="45px" alt="" class="media-object mCS_img_loaded">
               <h2 class="notification-title">
                 Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
-        </div>
+            <div class="float-left">
+              <span href="" class="badge badge-secondary"><a href="">Result</a></span>
+              <span href="" class="badge badge-secondary "><a href="">Admit Card</a></span>
+              </div>
+             </div>
         
       </div>
 
@@ -72,11 +82,16 @@ include_once('INCLUDES/menu.php');
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
             <a href="notification.php">
+              <img style="    float: left; margin-right: 20px; margin-top: 8px;" src="IMAGES/newspaper.png" width="45px" height="45px" alt="" class="media-object mCS_img_loaded">
               <h2 class="notification-title">
                 Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
-        </div>
+            <div class="float-left">
+              <span href="" class="badge badge-secondary"><a href="">Result</a></span>
+              <span href="" class="badge badge-secondary "><a href="">Admit Card</a></span>
+              </div>
+             </div>
         
       </div>
 
@@ -84,47 +99,34 @@ include_once('INCLUDES/menu.php');
       <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
             <a href="notification.php">
+              <img style="    float: left; margin-right: 20px; margin-top: 8px;" src="IMAGES/newspaper.png" width="45px" height="45px" alt="" class="media-object mCS_img_loaded">
               <h2 class="notification-title">
                 Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
-        </div>
+            <div class="float-left">
+              <span href="" class="badge badge-secondary"><a href="">Result</a></span>
+              <span href="" class="badge badge-secondary "><a href="">Admit Card</a></span>
+              </div>
+             </div>
         
       </div>
 
       <!-- VERTICAL BLOG title -->
       <div class="col-md-11 mb-4 notification-tile text-left">
-        <div class="notification-preview mb-4">
-            <a href="notification.php">
-              <h2 class="notification-title">
-                Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
-              </h2>
-            </a>
-        </div>
         
-      </div>
-
-      <!-- VERTICAL BLOG title -->
-      <div class="col-md-11 mb-4 notification-tile text-left">
         <div class="notification-preview mb-4">
             <a href="notification.php">
+              <img style="    float: left; margin-right: 20px; margin-top: 8px;" src="IMAGES/newspaper.png" width="45px" height="45px" alt="" class="media-object mCS_img_loaded">
               <h2 class="notification-title">
                 Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
               </h2>
             </a>
-        </div>
-        
-      </div>
-
-      <!-- VERTICAL BLOG title -->
-      <div class="col-md-11 mb-4 notification-tile text-left">
-        <div class="notification-preview mb-4">
-            <a href="notification.php">
-              <h2 class="notification-title">
-                Maha Metro Railway Recruitment 2018 for Multiple notifications – Direct Link to Apply!
-              </h2>
-            </a>
-        </div>
+            <div class="float-left">
+              <span href="" class="badge badge-secondary"><a href="">Result</a></span>
+              <span href="" class="badge badge-secondary "><a href="">Admit Card</a></span>
+              </div>
+             </div>
         
       </div>
 

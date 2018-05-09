@@ -149,7 +149,7 @@ include_once('INCLUDES/menu.php');
 			<div class="col-lg-6 col-sm-12 p0 feature-item row">
 				<div class="content">
 					<div class="col-md-4 feature-item-img">
-						<img src="https://s3-ap-southeast-1.amazonaws.com/yourdost-images/packages/2-01.png">
+						<img src="IMAGES/consultation/strength-and-weakness.png">
 					</div>
 					<div class="features-info col-md-8">
 						<div class="package-details">
@@ -166,7 +166,7 @@ include_once('INCLUDES/menu.php');
 			<div class="col-lg-6 col-sm-12 p0 feature-item row">
 				<div class="content">
 					<div class="col-md-4 feature-item-img">
-						<img src="https://s3-ap-southeast-1.amazonaws.com/yourdost-images/packages/3-01.png">
+						<img src="IMAGES/consultation/achieve-goals.png">
 					</div>
 					<div class="features-info col-md-8">
 						<div class="package-details">
@@ -183,7 +183,7 @@ include_once('INCLUDES/menu.php');
 			<div class="col-lg-6 col-sm-12 p0 feature-item row">
 				<div class="content">
 					<div class="col-md-4 feature-item-img">
-						<img src="https://s3-ap-southeast-1.amazonaws.com/yourdost-images/packages/3-01.png">
+						<img src="IMAGES/consultation/improve-performance.png">
 					</div>
 					<div class="features-info col-md-8">
 						<div class="package-details">
@@ -200,7 +200,7 @@ include_once('INCLUDES/menu.php');
 			<div class="col-lg-6 col-sm-12 p0 feature-item row">
 				<div class="content">
 					<div class="col-md-4 feature-item-img">
-						<img src="https://s3-ap-southeast-1.amazonaws.com/yourdost-images/packages/2-01.png">
+						<img src="IMAGES/consultation/increase-confidence.png">
 					</div>
 					<div class="features-info col-md-8">
 						<div class="package-details">
